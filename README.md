@@ -11,3 +11,7 @@ Abra o menu iniciar e comece a pesquisar por "variáveis de ambiente", assim que
 Apos isso, voce ja podera executar os comandos do Flutter! Teste digitando esse:
 
 `$ flutter doctor -v`
+
+[Configurando Android Studio](https://github.com/engapplabs/setup-windows/blob/master/android-studio-setup.md  "Configurando Android Studio")
+
+[Configurando o VSCode](https://github.com/engapplabs/setup-windows/blob/master/visual-studio-ide.md "Configurando VSCode")
