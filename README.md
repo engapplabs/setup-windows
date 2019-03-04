@@ -12,7 +12,7 @@ Apos isso, voce ja podera executar os comandos do Flutter! Teste digitando esse:
 
 `$ flutter doctor -v`
 
-## Criando e executando seu primeiro projeto
+# Criando e executando seu primeiro projeto
 
 Para criar e testar seus primeiros apps, execute esses comandos:
 
