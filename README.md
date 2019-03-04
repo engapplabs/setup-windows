@@ -50,4 +50,6 @@ Para se preparar para executar e testar seu aplicativo Flutter no emulador do An
 
 7. No Android Virtual Device Manager, clique em **Executar** na barra de ferramentas. O emulador é iniciado e exibe a tela padrão para sua versão do sistema operacional e dispositivo selecionados.
 
-Após isso, basta configurar uma IDE, nos da EngApp recomendamos o uso do VSCode da Microsoft, por ser uma IDE mais leve, visualmente bonita para nos, leve e agradável
+Após isso, basta configurar uma IDE, nos da EngApp recomendamos o uso do VSCode da Microsoft, por ser uma IDE mais leve, visualmente bonita para nos, leve e agradável.
+
+Configure clicando [aqui](https://github.com/engapplabs/setup-windows/blob/master/visual-studio-ide.md).
