@@ -2,7 +2,6 @@
 
 1. Faca o download da ultima versao do Flutter estavel [aqui](https://storage.googleapis.com/flutter_infra/releases/stable/windows/flutter_windows_v1.2.1-stable.zip "aqui");
 2. Extraia o conteúdo .zip para alguma pasta, ela será o caminho da SDK, escolha com cuidado;
-3. Localize o arquivo ***flutter_console.bat*** dentro da pasta raiz da SDK e execute-o com dois cliques.
 
 # Atualizando o PATH (Windows)
 
