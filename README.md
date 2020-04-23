@@ -21,7 +21,7 @@ Para criar e testar seus primeiros apps, execute esses comandos:
 
 2. Um diretório `meu_app` foi criado, contendo o aplicativo inicial do Flutter. Entre neste diretório: 
 
-	`$  cd my_app`
+	`$  cd meu_app`
 
 3. Para iniciar o aplicativo no Simulador, assegure-se de que o Simulador esteja em execução e execute no terminal:
 
